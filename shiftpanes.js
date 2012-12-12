@@ -1,4 +1,4 @@
-/* File Created: December 3, 2012 */
+/* File Created: December 3, 2012 - Jason Krol */
 
 function ShiftPanes(container, pane, delay, easing) {
     var paneTime = 500;
