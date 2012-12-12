@@ -13,4 +13,4 @@ Usage:
 6. easing = 'swing' by default / (Can use any jqEasing setting if that file is included in your page.)
 7. Include links with a class of "shift" and a rel of "previous" or "next" to control the actual interaction of the panes.
 
-View sample html page online: http://jasonkrol/upload/misc/shiftpanes_sample/sample.html
+View sample html page online: http://jasonkrol.com/upload/misc/shiftpanes_sample/sample.html
